@@ -69,3 +69,4 @@ SQL query exercises and customer sales analysis projects focused on database que
 
 - [LinkedIn](https://www.linkedin.com/in/tu%C4%9F%C3%A7e-yural-8472b8219)
 - [GitHub](https://github.com/Tugce2-hub)
+](https://github.com/Tugce2-hub))
