@@ -1,10 +1,10 @@
-# Hi, I'm Tuğçe Yural 
+# Hi, I'm Tuğçe Yural
 
 ### Management Information Systems | Data Analytics | IT Operations | Project Coordination
 
-I am a Management Information Systems student with a BSc background in Molecular Biology and Genetics. I focus on data analytics, information systems, IT operations, and technology-driven project coordination.
+I am a Management Information Systems student with a Bachelor's degree in Molecular Biology and Genetics. My interests include data analytics, information systems, IT operations, and technology-driven project coordination.
 
-I enjoy combining analytical thinking with technical problem-solving to transform data into meaningful insights and practical solutions.
+I combine analytical thinking, technical problem-solving, and project coordination skills to transform data into meaningful insights and practical solutions.
 
 ## Technical Skills
 
@@ -17,34 +17,39 @@ I enjoy combining analytical thinking with technical problem-solving to transfor
 ## Featured Projects
 
 ### 1. Customer Analytics Dashboard – Power BI
-An interactive dashboard analyzing customer demographics, spending behavior, and key performance indicators.
+
+An interactive dashboard designed to analyze customer demographics, spending behavior, and key performance indicators.
 
 - Power BI dashboard development
 - DAX measures and calculated columns
-- Customer segmentation and data visualization
+- Customer segmentation
+- Data visualization and KPI tracking
 
 [View Power BI Project](https://github.com/Tugce2-hub/customer-analytics-powerbi)
 
 ### 2. Python Projects
-A collection of Python exercises and practical projects covering programming fundamentals, functions, loops, data structures, and problem-solving.
 
-- Python fundamentals
+A collection of Python exercises and practical projects covering programming fundamentals and data analysis.
+
+- Python fundamentals, functions, and loops
+- Data structures and problem-solving
 - Mini games and practical exercises
 - Sales and customer data analysis
 
 [View Python Projects](https://github.com/Tugce2-hub/python-projects)
 
 ### 3. SQL Projects
-SQL queries and customer sales analysis exercises, including database querying and data analysis.
+
+SQL query exercises and customer sales analysis projects focused on database querying and data analysis.
 
 [Explore SQL Projects](https://github.com/Tugce2-hub/python-projects/tree/main/10-sql-projects)
 
 ## Experience & Activities
 
-- **DENEYAP Technology Workshops:** Workshop supervision, coordination, and technology education.
-- **Kodland:** Python Instructor.
+- **DENEYAP Technology Workshops:** Workshop Supervisor, responsible for workshop operations, coordination, and technology education.
+- **Kodland:** Python Instructor, teaching programming fundamentals.
 - **Prometheus Rocket Team:** Avionics software activities and engineering project experience.
-- **TEKNOFEST:** Team leadership and project coordination.
+- **TEKNOFEST:** Team leadership, technical project development, and project coordination.
 
 ## Achievements
 
@@ -62,5 +67,5 @@ SQL queries and customer sales analysis exercises, including database querying a
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/tuğçe-yural-8472b8219)
+- [LinkedIn](https://www.linkedin.com/in/tu%C4%9F%C3%A7e-yural-8472b8219)
 - [GitHub](https://github.com/Tugce2-hub)
