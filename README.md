@@ -35,9 +35,8 @@ A collection of Python exercises and practical projects covering programming fun
 - Data structures and problem-solving
 - Mini games and practical exercises
 - Sales and customer data analysis
-
+  
 [View Python Projects](https://github.com/Tugce2-hub/python-projects)
-[View Python Data Analysis](https://github.com/Tugce2-hub/python-projects/tree/main/08-data-analysis)
 [View Python Data Analysis](https://github.com/Tugce2-hub/python-projects/tree/main/08-data-analysis)
 
 ### 3. SQL Projects
