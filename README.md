@@ -45,6 +45,11 @@ SQL query exercises and customer sales analysis projects focused on database que
 
 [Explore SQL Projects](https://github.com/Tugce2-hub/python-projects/tree/main/10-sql-projects)
 
+4. Linux & Windows Notes
+Personal documentation of my hands-on work with Linux (Ubuntu) and Windows: package management, users and permissions, installation and troubleshooting.
+
+[View Linux & Windows Notes](https://github.com/Tugce2-hub/linux-windows-notes)
+
 ## Experience & Activities
 
 - **DENEYAP Technology Workshops:** Workshop Supervisor, responsible for workshop operations, coordination, and technology education.
