@@ -65,6 +65,7 @@ SQL query exercises and customer sales analysis projects focused on database que
 - Power BI & Business Intelligence
 - Linux System Administration
 - Data Analysis
+- IT Infrastructure and Networking
 
 ## Connect With Me
 
